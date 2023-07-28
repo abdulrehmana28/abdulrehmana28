@@ -73,7 +73,7 @@
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-<
+
 <div class="stats" align="center">
 
 ![Abdulrehman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrehmana28&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
@@ -85,7 +85,7 @@
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmana28&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
-<
+
 
 
 <!-- Begin Footer -->
