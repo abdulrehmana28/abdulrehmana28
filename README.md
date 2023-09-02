@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Abdulrehman Azam </h1>
 
-![github_cover_banner](coverbanner.gif)
+![github_cover_banner](coverBanner.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I'm Abdulrehman, a passionate student at Khawaja Fareed University of Engineering and Information Technology, aspiring to be an application developer. Since 2021, I've immersed myself in coding, mastering various programming languages and tools. Apart from coding, I find joy in playing games, watching football matches, and exploring documentaries to broaden my understanding of the world. 
