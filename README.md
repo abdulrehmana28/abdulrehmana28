@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Abdulrehman Azam </h1>
 
-![github_cover_banner](coverBanner.gif)
+![github_cover_banner](/assets/coverBanner.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I'm Abdulrehman, a passionate student at Khawaja Fareed University of Engineering and Information Technology, aspiring to be an application developer. Since 2021, I've immersed myself in coding, mastering various programming languages and tools. Apart from coding, I find joy in playing games, watching football matches, and exploring documentaries to broaden my understanding of the world. 
@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 
-[Email Me](mailto:abdulrehmana28@skiff.com)
+[Email Me](mailto:abdulrehman@skiff.com)
 </div>
 </p>    
 <br>
@@ -55,7 +55,7 @@
       <img  alt="android studio" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-      <img  alt="intellij-idea" height="50px" style="padding-right:10px;" src="intellij-idea.png"/> 
+      <img  alt="intellij-idea" height="50px" style="padding-right:10px;" src="/assets/intellij-idea.png"/> 
   </a>
   <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer">
       <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
@@ -91,8 +91,11 @@
 <!-- Begin Footer -->
 
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
+    <a href="https://learn.microsoft.com/en-us/users/abdulrehmana28">
+        <img  style="margin:0 10px 10px 0;" src="/assets/microsoft.png" alt="Microsoft Learn" width="40px"/>
+    </a>
+    <a href="www.linkedin.com/in/abdulrehmana28">
+        <img  style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedln" width="40px"/>
     </a>
     <a href="https://twitter.com/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="blogger" width="40px"/>
