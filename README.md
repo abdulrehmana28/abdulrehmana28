@@ -45,7 +45,7 @@
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
   <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-      <img  alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+      <img  alt="Github" height="50px" style="padding-right:10px;" src="/assets/github.svg"/>
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -57,11 +57,11 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
       <img  alt="intellij-idea" height="50px" style="padding-right:10px;" src="/assets/intellij-idea.png"/> 
   </a>
-  <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer">
-      <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
+  <a href="https://linuxmint.com/" target="_blank" rel="noreferrer">
+      <img  alt="Linux" height="50px" style="padding-right:10px;" src="/assets/linux-mint.svg"/> 
   </a>
   <a href="https://unity.com//" target="_blank" rel="noreferrer">
-      <img  alt="Unity" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/> 
+      <img  alt="Unity" height="50px" style="padding-right:10px;" src="/assets/unity.svg"/> 
   </a>
 </div>
 <br>
@@ -92,16 +92,16 @@
 
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://learn.microsoft.com/en-us/users/abdulrehmana28">
-        <img  style="margin:0 10px 10px 0;" src="/assets/microsoft.png" alt="Microsoft Learn" width="40px"/>
+        <img  style="margin:0 15px 15px 0;" src="/assets/microsoft.png" alt="Microsoft Learn" width="40px"/>
     </a>
     <a href="www.linkedin.com/in/abdulrehmana28">
-        <img  style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedln" width="40px"/>
+        <img  style="margin:0 15px 15px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedln" width="40px"/>
     </a>
-    <a href="https://twitter.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="blogger" width="40px"/>
+    <a href="https://twitter.com/AbdulrehmanA28">
+        <img style="margin:0 15px 15px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter / X " width="40px"/>
     </a>
-    <a href="mailto:abdulrehmana28@skiff.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    <a href="mailto:abdulrehmana28@skiff.com">
+        <img style="margin:0 15px 15px 0;" src="/assets/gmail.svg" alt="email" width="40px"/>
     </a>
 </div>
 <!-- End Footer -->
