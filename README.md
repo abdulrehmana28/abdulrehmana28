@@ -94,7 +94,7 @@
     <a href="https://learn.microsoft.com/en-us/users/abdulrehmana28">
         <img  style="margin:0 15px 15px 0;" src="/assets/microsoft.png" alt="Microsoft Learn" width="40px"/>
     </a>
-    <a href="www.linkedin.com/in/abdulrehmana28">
+    <a href="https://www.linkedin.com/in/abdulrehmana28">
         <img  style="margin:0 15px 15px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedln" width="40px"/>
     </a>
     <a href="https://twitter.com/AbdulrehmanA28">
