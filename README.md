@@ -3,7 +3,7 @@
 ![github_cover_banner](/assets/coverBanner.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I'm Abdulrehman, a passionate student at Khawaja Fareed University of Engineering and Information Technology, aspiring to be an application developer. Since 2021, I've immersed myself in coding, mastering various programming languages and tools. Apart from coding, I find joy in playing games, watching football matches, and exploring documentaries to broaden my understanding of the world. 
+    I'm Abdulrehman, a passionate student at Khawaja Fareed University of Engineering and Information Technology, aspiring to be an Mobile application developer. Since 2021, I've immersed myself in coding, mastering various programming languages and tools. Apart from coding, I find joy in playing games, watching football matches, and exploring documentaries to broaden my understanding of the world. 
 <br>
 <br>
 <div align="center">
@@ -20,16 +20,6 @@
 </div>
 <br>   
 
-<div align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>
