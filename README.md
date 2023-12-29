@@ -17,7 +17,7 @@
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
     
-</div>
+
 <br>   
 
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
