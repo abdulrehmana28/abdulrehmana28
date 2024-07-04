@@ -8,13 +8,13 @@
 <br>
 <div align="center">
 
-[Email Me](mailto:abdulrehman@skiff.com)
+[Email Me](mailto:abdulrehmana28x@gmail.com)
 </div>
 </p>    
 <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2 style="color: #44AEFB">⚙️ Languages and Tools I Use</h2>
 <div align="center" style="display:block;">
     
 
@@ -26,10 +26,6 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
       <img  alt="C-Sharp" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="Kotlin" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  </a>
-
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -44,15 +40,17 @@
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
       <img  alt="android studio" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
   </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-      <img  alt="intellij-idea" height="50px" style="padding-right:10px;" src="/assets/intellij-idea.png"/> 
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+      <img  alt="flutter" height="50px" style="padding-right:10px;" src="/assets/flutter.svg"/>
   </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+      <img  alt="dart" height="50px" style="padding-right:10px;" src="/assets/dart.svg"/> 
+  </a>
+  
   <a href="https://linuxmint.com/" target="_blank" rel="noreferrer">
       <img  alt="Linux" height="50px" style="padding-right:10px;" src="/assets/linux-mint.svg"/> 
   </a>
-  <a href="https://unity.com//" target="_blank" rel="noreferrer">
-      <img  alt="Unity" height="50px" style="padding-right:10px;" src="/assets/unity.svg"/> 
-  </a>
+  
 </div>
 <br>
 <br>
@@ -90,7 +88,7 @@
     <a href="https://twitter.com/AbdulrehmanA28">
         <img style="margin:0 15px 15px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter / X " width="40px"/>
     </a>
-    <a href="mailto:abdulrehmana28@skiff.com">
+    <a href="mailto:abdulrehmana28@x@gmail.com">
         <img style="margin:0 15px 15px 0;" src="/assets/gmail.svg" alt="email" width="40px"/>
     </a>
 </div>
