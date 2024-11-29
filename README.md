@@ -1,5 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Abdulrehman Azam </h1>
 
 ![github_cover_banner](/assets/cover.png)
@@ -87,7 +85,7 @@
         <img  style="margin:0 15px 15px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedln" width="40px"/>
     </a>
     <a href="https://twitter.com/AbdulrehmanA28">
-        <img style="margin:0 15px 15px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter / X " width="40px"/>
+        <img style="margin:0 15px 15px 0;" src="/assets/twitter.svg" alt="Twitter / X " width="40px"/>
     </a>
     <a href="mailto:abdulrehmana28@x@gmail.com">
         <img style="margin:0 15px 15px 0;" src="/assets/gmail.svg" alt="email" width="40px"/>
