@@ -1,9 +1,11 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Abdulrehman Azam </h1>
 
-![github_cover_banner](/assets/cover.png)
+![github_cover_banner](https://i.postimg.cc/k5hyGgjJ/cover-fulll-stack-11.jpg)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I'm Abdulrehman, a passionate student at Khawaja Fareed University of Engineering and Information Technology, aspiring to be a front-end developer. I've immersed myself in coding, mastering various technologies and tools. Apart from coding, I find joy in playing games, watching football matches, and exploring documentaries to broaden my understanding of the world. 
+   I'm Abdulrehman, a passionate student at the Khawaja Fareed University of Engineering and Information, I have been immersed in the world of coding, and I've developed proficiency in various technologies and tools.
+
+In addition to my dedication to coding, I have a couple of hobbies that bring me joy and inspiration. Playing games allows me to appreciate the creative. Watching football matches fuels my love for teamwork, strategy, and competition. Furthermore, I find documentaries fascinating as they provide valuable insights into various subjects, broadening my understanding of the world.
 <br>
 <br>
 <div align="center">
@@ -51,6 +53,34 @@
 
   <a href="https://262.ecma-international.org/" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  </a>
+
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;"src="https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000"/>
+  </a>
+
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;"src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"/>
+  </a>
+
+   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg"/>
+  </a>
+
+   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;"src="https://img.icons8.com/?size=100&id=zJh5Gyrd6ZKu&format=png&color=000000"/>
+  </a>
+
+  <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg"/>
+  </a>
+
+   <a href="https://react.dev/" target="_blank" rel="noreferrer">
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
   </a>
   
 </div>
