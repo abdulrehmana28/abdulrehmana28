@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Abdulrehman Azam </h1>
 
-![github_cover_banner](https://i.postimg.cc/k5hyGgjJ/cover-fulll-stack-11.jpg)
+[![github_cover_banner](https://i.postimg.cc/ncp050Dr/cover-full-stack-2026-1.jpg)](https://postimg.cc/8sXRfdwg)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
    I'm Abdulrehman, a passionate student at the Khawaja Fareed University of Engineering and Information, I have been immersed in the world of coding, and I've developed proficiency in various technologies and tools.
